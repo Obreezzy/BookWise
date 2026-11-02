@@ -1,0 +1,1976 @@
+{
+  "receipt_001.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "STITCH PERFECT",
+      "date": "2026-10-01",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Zip replace",
+          "quantity": 1.0,
+          "unit_price": 1.51,
+          "line_total": 1.51
+        },
+        {
+          "description": "School uniform",
+          "quantity": 1.0,
+          "unit_price": 13.75,
+          "line_total": 13.75
+        }
+      ],
+      "total": 15.26
+    }
+  },
+  "receipt_002.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "MRS MOYO TAILORING",
+      "date": "2026-09-22",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Zip change",
+          "quantity": 1.0,
+          "unit_price": 1.6,
+          "line_total": 1.6
+        },
+        {
+          "description": "Alteration",
+          "quantity": 2.0,
+          "unit_price": 2.9,
+          "line_total": 5.8
+        },
+        {
+          "description": "Hem trousers",
+          "quantity": 1.0,
+          "unit_price": 1.97,
+          "line_total": 1.97
+        }
+      ],
+      "total": 9.37
+    }
+  },
+  "receipt_003.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Bindura Cyber Cafe",
+      "date": "2026-10-09",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Lamination",
+          "quantity": 1.0,
+          "unit_price": 0.96,
+          "line_total": 0.96
+        },
+        {
+          "description": "pens box",
+          "quantity": 1.0,
+          "unit_price": 2.71,
+          "line_total": 2.71
+        },
+        {
+          "description": "Ex. book",
+          "quantity": 1.0,
+          "unit_price": 0.6,
+          "line_total": 0.6
+        },
+        {
+          "description": "Print A4",
+          "quantity": 10.0,
+          "unit_price": 0.2,
+          "line_total": 2.0
+        },
+        {
+          "description": "Copies",
+          "quantity": 5.0,
+          "unit_price": 0.1,
+          "line_total": 0.5
+        },
+        {
+          "description": "CV typing",
+          "quantity": 1.0,
+          "unit_price": 2.88,
+          "line_total": 2.88
+        },
+        {
+          "description": "Scan",
+          "quantity": 4.0,
+          "unit_price": 0.5,
+          "line_total": 2.0
+        }
+      ],
+      "total": 11.65
+    }
+  },
+  "receipt_004.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Mrs Moyo Tailoring",
+      "date": "2026-09-21",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "School uniform",
+          "quantity": 1.0,
+          "unit_price": 14.72,
+          "line_total": 14.72
+        },
+        {
+          "description": "Alteration",
+          "quantity": 1.0,
+          "unit_price": 3.01,
+          "line_total": 3.01
+        },
+        {
+          "description": "Zip replace",
+          "quantity": 1.0,
+          "unit_price": 1.51,
+          "line_total": 1.51
+        },
+        {
+          "description": "Dress (sewn)",
+          "quantity": 1.0,
+          "unit_price": 21.0,
+          "line_total": 21.0
+        },
+        {
+          "description": "Hem trousers",
+          "quantity": 1.0,
+          "unit_price": 2.19,
+          "line_total": 2.19
+        },
+        {
+          "description": "Curtains",
+          "quantity": 1.0,
+          "unit_price": 11.78,
+          "line_total": 11.78
+        }
+      ],
+      "total": 54.21
+    }
+  },
+  "receipt_005.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Prime Cuts Butchery",
+      "date": "2026-09-12",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Mince beef kg",
+          "quantity": 1.0,
+          "unit_price": 7.08,
+          "line_total": 1.08
+        },
+        {
+          "description": "Bones kg",
+          "quantity": 2.0,
+          "unit_price": 1.92,
+          "line_total": 3.84
+        },
+        {
+          "description": "Chicken whole",
+          "quantity": 1.0,
+          "unit_price": 6.84,
+          "line_total": 6.84
+        },
+        {
+          "description": "Boerewors kg",
+          "quantity": 3.0,
+          "unit_price": 6.0,
+          "line_total": 18.0
+        },
+        {
+          "description": "Goat meat kg",
+          "quantity": 4.0,
+          "unit_price": 7.5,
+          "line_total": 30.0
+        },
+        {
+          "description": "Offals",
+          "quantity": 4.0,
+          "unit_price": 3.5,
+          "line_total": 14.0
+        },
+        {
+          "description": "Beef (kg)",
+          "quantity": 2.0,
+          "unit_price": 6.8,
+          "line_total": 13.6
+        }
+      ],
+      "total": 93.36
+    }
+  },
+  "receipt_006.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Tendai's Braiding",
+      "date": "2026-09-02",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Relaxer",
+          "quantity": 1.0,
+          "unit_price": 10.41,
+          "line_total": 10.41
+        },
+        {
+          "description": "Braids",
+          "quantity": 1.0,
+          "unit_price": 16.31,
+          "line_total": 16.31
+        }
+      ],
+      "total": 36.72
+    }
+  },
+  "receipt_007.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Tafara Building Supplies",
+      "date": "2026-09-23",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Paint 5L",
+          "quantity": 2.0,
+          "unit_price": 18.0,
+          "line_total": 36.0
+        },
+        {
+          "description": "Bricks (50)",
+          "quantity": 1.0,
+          "unit_price": 9.0,
+          "line_total": 9.0
+        },
+        {
+          "description": "Nails kg",
+          "quantity": 1.0,
+          "unit_price": 3.0,
+          "line_total": 3.0
+        },
+        {
+          "description": "Cement 50kg",
+          "quantity": 1.0,
+          "unit_price": 12.78,
+          "line_total": 12.78
+        },
+        {
+          "description": "River sand load",
+          "quantity": 2.0,
+          "unit_price": 27.5,
+          "line_total": 27.5
+        },
+        {
+          "description": "Roofing sheet",
+          "quantity": 1.0,
+          "unit_price": 11.4,
+          "line_total": 22.8
+        },
+        {
+          "description": "Wire (1mm)",
+          "quantity": 1.0,
+          "unit_price": 3.29,
+          "line_total": 3.29
+        }
+      ],
+      "total": 114.37
+    }
+  },
+  "receipt_008.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Mazvita General Deale",
+      "date": "2026-09-28",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Econet airtime",
+          "quantity": 1.0,
+          "unit_price": 1.07,
+          "line_total": 1.07
+        },
+        {
+          "description": "Cook oil 2lt",
+          "quantity": 1.0,
+          "unit_price": 4.12,
+          "line_total": 4.12
+        },
+        {
+          "description": "Rice 2kg",
+          "quantity": 2.0,
+          "unit_price": 3.26,
+          "line_total": 6.52
+        }
+      ],
+      "total": 11.71
+    }
+  },
+  "receipt_009.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "CHINHOYI RD HARDWARE",
+      "date": "2026-09-05",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Paint 5L",
+          "quantity": 2.0,
+          "unit_price": 19.5,
+          "line_total": 39.0
+        },
+        {
+          "description": "Bricks (50)",
+          "quantity": 1.0,
+          "unit_price": 9.5,
+          "line_total": 9.5
+        },
+        {
+          "description": "Nails kg",
+          "quantity": 1.0,
+          "unit_price": 2.8,
+          "line_total": 2.8
+        },
+        {
+          "description": "Pad lock",
+          "quantity": 2.0,
+          "unit_price": 4.5,
+          "line_total": 9.0
+        },
+        {
+          "description": "Cement 50kg",
+          "quantity": 1.0,
+          "unit_price": 12.68,
+          "line_total": 12.68
+        },
+        {
+          "description": "Wire (10m)",
+          "quantity": 4.0,
+          "unit_price": 3.5,
+          "line_total": 14.0
+        }
+      ],
+      "total": 86.98
+    }
+  },
+  "receipt_010.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Mai Tendai Vegetables",
+      "date": "2026-09-22",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Rape",
+          "quantity": 2.0,
+          "unit_price": 0.5,
+          "line_total": 1.0
+        },
+        {
+          "description": "Tomatoes kg",
+          "quantity": 1.0,
+          "unit_price": 1.18,
+          "line_total": 1.18
+        },
+        {
+          "description": "carrots",
+          "quantity": 4.0,
+          "unit_price": 1.05,
+          "line_total": 4.2
+        },
+        {
+          "description": "Bananas",
+          "quantity": 2.0,
+          "unit_price": 1.64,
+          "line_total": 3.28
+        },
+        {
+          "description": "Onions kg",
+          "quantity": 3.0,
+          "unit_price": 1.36,
+          "line_total": 4.08
+        }
+      ],
+      "total": 13.74
+    }
+  },
+  "receipt_011.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "MRS MOYO TAILORING",
+      "date": "2026-09-20",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Hem trousers",
+          "quantity": 1.0,
+          "unit_price": 2.1,
+          "line_total": 2.1
+        },
+        {
+          "description": "Dress sewn",
+          "quantity": 1.0,
+          "unit_price": 19.0,
+          "line_total": 19.0
+        },
+        {
+          "description": "Alterations",
+          "quantity": 1.0,
+          "unit_price": 2.96,
+          "line_total": 2.96
+        },
+        {
+          "description": "Curtains",
+          "quantity": 1.0,
+          "unit_price": 13.0,
+          "line_total": 13.0
+        },
+        {
+          "description": "Zip replace",
+          "quantity": 1.0,
+          "unit_price": 1.53,
+          "line_total": 1.53
+        },
+        {
+          "description": "Uniform sewn",
+          "quantity": 2.0,
+          "unit_price": 13.5,
+          "line_total": 27.0
+        }
+      ],
+      "total": 65.59
+    }
+  },
+  "receipt_012.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "BINDURA HARDWARE",
+      "date": "2026-09-20",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Wire 10m",
+          "quantity": 1.0,
+          "unit_price": 3.0,
+          "line_total": 3.0
+        },
+        {
+          "description": "Nails kg",
+          "quantity": 2.0,
+          "unit_price": 2.78,
+          "line_total": 5.56
+        }
+      ],
+      "total": 8.56
+    }
+  },
+  "receipt_013.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Tafadzwa Print & Copy",
+      "date": "2026-10-09",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Print A4",
+          "quantity": 10.0,
+          "unit_price": 0.2,
+          "line_total": 2.0
+        },
+        {
+          "description": "Laminate",
+          "quantity": 1.0,
+          "unit_price": 1.06,
+          "line_total": 1.06
+        },
+        {
+          "description": "Photocopy",
+          "quantity": 5.0,
+          "unit_price": 0.1,
+          "line_total": 0.5
+        },
+        {
+          "description": "Scanning",
+          "quantity": 4.0,
+          "unit_price": 0.5,
+          "line_total": 2.0
+        },
+        {
+          "description": "Pens box",
+          "quantity": 2.0,
+          "unit_price": 2.65,
+          "line_total": 5.3
+        }
+      ],
+      "total": 10.86
+    }
+  },
+  "receipt_014.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "ACE STATIONERS",
+      "date": "2026-09-01",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Pens (box)",
+          "quantity": 1.0,
+          "unit_price": 2.53,
+          "line_total": 2.53
+        },
+        {
+          "description": "Scan",
+          "quantity": 1.0,
+          "unit_price": 0.5,
+          "line_total": 0.5
+        },
+        {
+          "description": "cv typing",
+          "quantity": 2.0,
+          "unit_price": 3.0,
+          "line_total": 6.0
+        },
+        {
+          "description": "Copies",
+          "quantity": 30.0,
+          "unit_price": 0.1,
+          "line_total": 3.0
+        },
+        {
+          "description": "EX. book",
+          "quantity": 1.0,
+          "unit_price": 0.6,
+          "line_total": 0.6
+        },
+        {
+          "description": "printing A4",
+          "quantity": 20.0,
+          "unit_price": 0.2,
+          "line_total": 4.0
+        },
+        {
+          "description": "Laminate",
+          "quantity": 2.0,
+          "unit_price": 1.07,
+          "line_total": 2.14
+        }
+      ],
+      "total": 18.77
+    }
+  },
+  "receipt_015.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "CHIPO'S TUCKSHOP",
+      "date": "2026-04-26",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "bread",
+          "quantity": 3.0,
+          "unit_price": 0.98,
+          "line_total": 2.94
+        },
+        {
+          "description": "Sugar 1 kg",
+          "quantity": 1.0,
+          "unit_price": 2.97,
+          "line_total": 2.97
+        }
+      ],
+      "total": 5.91
+    }
+  },
+  "receipt_016.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "FRESH FIELDS MARKET",
+      "date": "2026-08-09",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Tomatoes kg",
+          "quantity": 4.0,
+          "unit_price": 1.25,
+          "line_total": 5.0
+        },
+        {
+          "description": "Bananas",
+          "quantity": 1.0,
+          "unit_price": 1.56,
+          "line_total": 1.56
+        },
+        {
+          "description": "Potatoes 2kg",
+          "quantity": 2.0,
+          "unit_price": 2.42,
+          "line_total": 4.84
+        },
+        {
+          "description": "Rape bundle",
+          "quantity": 2.0,
+          "unit_price": 0.5,
+          "line_total": 1.0
+        },
+        {
+          "description": "Onions",
+          "quantity": 2.0,
+          "unit_price": 1.53,
+          "line_total": 3.06
+        },
+        {
+          "description": "Cabbage head",
+          "quantity": 1.0,
+          "unit_price": 1.09,
+          "line_total": 1.09
+        },
+        {
+          "description": "Covo",
+          "quantity": 2.0,
+          "unit_price": 0.5,
+          "line_total": 1.0
+        }
+      ],
+      "total": 17.55
+    }
+  },
+  "receipt_017.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "CHINHOYI RD HARDWARE",
+      "date": "2026-09-26",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Nails 1kg",
+          "quantity": 4.0,
+          "unit_price": 2.96,
+          "line_total": 11.84
+        },
+        {
+          "description": "River sand load",
+          "quantity": 4.0,
+          "unit_price": 27.27,
+          "line_total": 109.08
+        },
+        {
+          "description": "Cement 50kg",
+          "quantity": 2.0,
+          "unit_price": 13.27,
+          "line_total": 26.54
+        },
+        {
+          "description": "Wire (10m)",
+          "quantity": 3.0,
+          "unit_price": 3.0,
+          "line_total": 9.0
+        }
+      ],
+      "total": 156.46
+    }
+  },
+  "receipt_018.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "TAFARA BUILDING SUPPLIES",
+      "date": "2026-10-11",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Paint St",
+          "quantity": 3.0,
+          "unit_price": 19.5,
+          "line_total": 58.5
+        },
+        {
+          "description": "Cement 50kg",
+          "quantity": 1.0,
+          "unit_price": 12.5,
+          "line_total": 12.5
+        },
+        {
+          "description": "Iron sheet",
+          "quantity": 2.0,
+          "unit_price": 61.23,
+          "line_total": 122.46
+        },
+        {
+          "description": "River sand load",
+          "quantity": 1.0,
+          "unit_price": 25.0,
+          "line_total": 25.0
+        },
+        {
+          "description": "Abric 1kg",
+          "quantity": 2.0,
+          "unit_price": 12.93,
+          "line_total": 5.86
+        },
+        {
+          "description": "Pad lock",
+          "quantity": 2.0,
+          "unit_price": 4.5,
+          "line_total": 7.0
+        },
+        {
+          "description": "Wire 10m",
+          "quantity": 1.0,
+          "unit_price": 3.5,
+          "line_total": 3.5
+        }
+      ],
+      "total": 34.82
+    }
+  },
+  "receipt_019.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Sunrise Tuck Shop",
+      "date": "2026-10-04",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Soft drink 2L",
+          "quantity": 4.0,
+          "unit_price": 3.46,
+          "line_total": 13.84
+        },
+        {
+          "description": "Eggs (Tray)",
+          "quantity": 1.0,
+          "unit_price": 5.0,
+          "line_total": 5.0
+        },
+        {
+          "description": "Bread loaf",
+          "quantity": 3.0,
+          "unit_price": 1.05,
+          "line_total": 3.15
+        },
+        {
+          "description": "Salt",
+          "quantity": 2.0,
+          "unit_price": 0.8,
+          "line_total": 1.6
+        },
+        {
+          "description": "Rice 2 kg",
+          "quantity": 3.0,
+          "unit_price": 3.24,
+          "line_total": 9.72
+        },
+        {
+          "description": "Milk 1L",
+          "quantity": 1.0,
+          "unit_price": 1.76,
+          "line_total": 1.76
+        }
+      ],
+      "total": 35.07
+    }
+  },
+  "receipt_020.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Prime cuts Butchery",
+      "date": "2026-09-07",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Pork chops",
+          "quantity": 1.0,
+          "unit_price": 7.5,
+          "line_total": 7.5
+        },
+        {
+          "description": "Offals",
+          "quantity": 1.0,
+          "unit_price": 3.5,
+          "line_total": 3.5
+        },
+        {
+          "description": "Bones kg",
+          "quantity": 1.0,
+          "unit_price": 1.97,
+          "line_total": 1.97
+        }
+      ],
+      "total": 12.97
+    }
+  },
+  "receipt_021.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Mupedzanhamo Veg Stall",
+      "date": "2026-09-09",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Onions 1kg",
+          "quantity": 1.0,
+          "unit_price": 1.35,
+          "line_total": 1.35
+        },
+        {
+          "description": "Bananas hand",
+          "quantity": 1.0,
+          "unit_price": 1.51,
+          "line_total": 1.51
+        },
+        {
+          "description": "Coco",
+          "quantity": 2.0,
+          "unit_price": 0.5,
+          "line_total": 1.0
+        },
+        {
+          "description": "Tomatoes kg",
+          "quantity": 1.0,
+          "unit_price": 1.31,
+          "line_total": 1.31
+        },
+        {
+          "description": "Kale bundle",
+          "quantity": 1.0,
+          "unit_price": 0.5,
+          "line_total": 0.5
+        },
+        {
+          "description": "Carrots",
+          "quantity": 1.0,
+          "unit_price": 1.03,
+          "line_total": 1.03
+        },
+        {
+          "description": "Potatoes 2kg",
+          "quantity": 4.0,
+          "unit_price": 2.34,
+          "line_total": 9.36
+        }
+      ],
+      "total": 16.02
+    }
+  },
+  "receipt_022.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Glam Hair Salon",
+      "date": "2026-10-04",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Gel nails",
+          "quantity": 2.0,
+          "unit_price": 8.76,
+          "line_total": 17.52
+        },
+        {
+          "description": "Wash and set",
+          "quantity": 1.0,
+          "unit_price": 6.5,
+          "line_total": 6.5
+        },
+        {
+          "description": "Weave install",
+          "quantity": 1.0,
+          "unit_price": 12.5,
+          "line_total": 125.0
+        },
+        {
+          "description": "Box braids",
+          "quantity": 2.0,
+          "unit_price": 15.4,
+          "line_total": 30.8
+        },
+        {
+          "description": "Hair oil",
+          "quantity": 1.0,
+          "unit_price": 2.58,
+          "line_total": 2.58
+        },
+        {
+          "description": "Braids hair",
+          "quantity": 1.0,
+          "unit_price": 4.5,
+          "line_total": 4.5
+        }
+      ],
+      "total": 74.4
+    }
+  },
+  "receipt_023.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "TAFADZWA PRINT & COPY",
+      "date": "2026-10-09",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Copies",
+          "quantity": 20.0,
+          "unit_price": 0.1,
+          "line_total": 2.0
+        },
+        {
+          "description": "Print A4",
+          "quantity": 5.0,
+          "unit_price": 0.2,
+          "line_total": 1.0
+        },
+        {
+          "description": "Pens box",
+          "quantity": 2.0,
+          "unit_price": 2.67,
+          "line_total": 5.34
+        },
+        {
+          "description": "Laminate",
+          "quantity": 4.0,
+          "unit_price": 0.96,
+          "line_total": 3.84
+        },
+        {
+          "description": "Ex. book",
+          "quantity": 4.0,
+          "unit_price": 0.6,
+          "line_total": 2.4
+        },
+        {
+          "description": "Scanning",
+          "quantity": 4.0,
+          "unit_price": 0.5,
+          "line_total": 2.0
+        },
+        {
+          "description": "CV typing",
+          "quantity": 1.0,
+          "unit_price": 3.26,
+          "line_total": 3.26
+        }
+      ],
+      "total": 19.84
+    }
+  },
+  "receipt_024.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Tino Groceries",
+      "date": "2026-09-24",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Mazoe 2L",
+          "quantity": 1.0,
+          "unit_price": 3.06,
+          "line_total": 3.06
+        },
+        {
+          "description": "Tea leaves",
+          "quantity": 1.0,
+          "unit_price": 2.7,
+          "line_total": 2.7
+        },
+        {
+          "description": "Eggs (tray)",
+          "quantity": 1.0,
+          "unit_price": 4.5,
+          "line_total": 4.5
+        }
+      ],
+      "total": 10.26
+    }
+  },
+  "receipt_025.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Glam Hair Salon",
+      "date": "2026-10-08",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Gel nails",
+          "quantity": 1.0,
+          "unit_price": 8.75,
+          "line_total": 8.75
+        },
+        {
+          "description": "Braid hair",
+          "quantity": 1.0,
+          "unit_price": 4.89,
+          "line_total": 4.89
+        },
+        {
+          "description": "Shampoo cold",
+          "quantity": 2.0,
+          "unit_price": 2.95,
+          "line_total": 5.9
+        },
+        {
+          "description": "Wax install",
+          "quantity": 1.0,
+          "unit_price": 11.76,
+          "line_total": 11.76
+        },
+        {
+          "description": "Relaxer treatment",
+          "quantity": 1.0,
+          "unit_price": 9.5,
+          "line_total": 9.5
+        }
+      ],
+      "total": 40.25
+    }
+  },
+  "receipt_026.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "ACE STATIONERS",
+      "date": "2026-09-09",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Printing A4",
+          "quantity": 20.0,
+          "unit_price": 0.2,
+          "line_total": 4.0
+        },
+        {
+          "description": "Pens (box)",
+          "quantity": 1.0,
+          "unit_price": 2.65,
+          "line_total": 2.65
+        },
+        {
+          "description": "Exercise book",
+          "quantity": 4.0,
+          "unit_price": 0.6,
+          "line_total": 2.6
+        },
+        {
+          "description": "Laminating",
+          "quantity": 1.0,
+          "unit_price": 1.1,
+          "line_total": 1.1
+        },
+        {
+          "description": "Scanning",
+          "quantity": 2.0,
+          "unit_price": 0.5,
+          "line_total": 1.0
+        },
+        {
+          "description": "Copies",
+          "quantity": 5.0,
+          "unit_price": 0.1,
+          "line_total": 0.5
+        }
+      ],
+      "total": 11.65
+    }
+  },
+  "receipt_027.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Tafadzwa Print & Copy",
+      "date": "2026-09-03",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Scan",
+          "quantity": 3.0,
+          "unit_price": 0.5,
+          "line_total": 1.5
+        },
+        {
+          "description": "Printing A4",
+          "quantity": 20.0,
+          "unit_price": 0.2,
+          "line_total": 4.0
+        }
+      ],
+      "total": 4.5
+    }
+  },
+  "receipt_028.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "RUVIMBO BEAUTY SALON",
+      "date": "2026-09-03",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Braids",
+          "quantity": 2.0,
+          "unit_price": 14.7,
+          "line_total": 29.4
+        },
+        {
+          "description": "Nails (gel)",
+          "quantity": 1.0,
+          "unit_price": 8.33,
+          "line_total": 8.33
+        },
+        {
+          "description": "Weave fitting",
+          "quantity": 2.0,
+          "unit_price": 12.81,
+          "line_total": 25.62
+        }
+      ],
+      "total": 63.35
+    }
+  },
+  "receipt_029.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "ACE STATIONERS",
+      "date": "2026-09-23",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "CV typing",
+          "quantity": 2.0,
+          "unit_price": 3.5,
+          "line_total": 7.0
+        },
+        {
+          "description": "Scan",
+          "quantity": 2.0,
+          "unit_price": 0.5,
+          "line_total": 1.0
+        },
+        {
+          "description": "Lamination",
+          "quantity": 1.0,
+          "unit_price": 1.1,
+          "line_total": 1.1
+        },
+        {
+          "description": "EX. book",
+          "quantity": 2.0,
+          "unit_price": 0.6,
+          "line_total": 1.2
+        },
+        {
+          "description": "Pens (box)",
+          "quantity": 1.0,
+          "unit_price": 2.41,
+          "line_total": 2.41
+        },
+        {
+          "description": "photocopy",
+          "quantity": 30.0,
+          "unit_price": 0.1,
+          "line_total": 3.0
+        }
+      ],
+      "total": 15.71
+    }
+  },
+  "receipt_030.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "GLAM HAIR SALON",
+      "date": "2026-10-09",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Relaxer treatment",
+          "quantity": 2.0,
+          "unit_price": 10.0,
+          "line_total": 23.0
+        },
+        {
+          "description": "Box braids",
+          "quantity": 1.0,
+          "unit_price": 16.0,
+          "line_total": 16.0
+        }
+      ],
+      "total": 39.0
+    }
+  },
+  "receipt_031.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Stitch Perfect",
+      "date": "2026-09-09",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Alteration",
+          "quantity": 2.0,
+          "unit_price": 2.93,
+          "line_total": 5.86
+        },
+        {
+          "description": "Hem trousers",
+          "quantity": 1.0,
+          "unit_price": 1.94,
+          "line_total": 1.94
+        }
+      ],
+      "total": 7.8
+    }
+  },
+  "receipt_032.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "CHINHOYI RD HARDWARE",
+      "date": "2026-09-06",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Cement bag",
+          "quantity": 1.0,
+          "unit_price": 12.75,
+          "line_total": 12.75
+        },
+        {
+          "description": "Nails 1kg",
+          "quantity": 3.0,
+          "unit_price": 2.68,
+          "line_total": 8.04
+        },
+        {
+          "description": "Bricks (50)",
+          "quantity": 2.0,
+          "unit_price": 8.78,
+          "line_total": 17.56
+        },
+        {
+          "description": "Sand",
+          "quantity": 1.0,
+          "unit_price": 24.94,
+          "line_total": 24.94
+        },
+        {
+          "description": "Paint 5lt white",
+          "quantity": 1.0,
+          "unit_price": 19.0,
+          "line_total": 19.0
+        },
+        {
+          "description": "Roofing sheet",
+          "quantity": 1.0,
+          "unit_price": 12.0,
+          "line_total": 12.0
+        }
+      ],
+      "total": 94.29
+    }
+  },
+  "receipt_033.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Sunrise Tuck Shop",
+      "date": "2026-09-13",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Fresh milk 1L",
+          "quantity": 1.0,
+          "unit_price": 1.82,
+          "line_total": 1.82
+        },
+        {
+          "description": "Eggs tray",
+          "quantity": 2.0,
+          "unit_price": 4.42,
+          "line_total": 8.84
+        },
+        {
+          "description": "Bath soap",
+          "quantity": 1.0,
+          "unit_price": 0.9,
+          "line_total": 0.9
+        },
+        {
+          "description": "Econet airtime",
+          "quantity": 4.0,
+          "unit_price": 1.01,
+          "line_total": 4.04
+        }
+      ],
+      "total": 15.6
+    }
+  },
+  "receipt_034.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Mhofu Dressmakers",
+      "date": "2026-09-17",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Uniform sewn",
+          "quantity": 2.0,
+          "unit_price": 14.0,
+          "line_total": 28.0
+        },
+        {
+          "description": "Zip replace",
+          "quantity": 1.0,
+          "unit_price": 1.6,
+          "line_total": 1.6
+        },
+        {
+          "description": "Trousers hem",
+          "quantity": 1.0,
+          "unit_price": 2.02,
+          "line_total": 2.02
+        },
+        {
+          "description": "Alterations",
+          "quantity": 1.0,
+          "unit_price": 3.0,
+          "line_total": 3.0
+        },
+        {
+          "description": "Dress sewn",
+          "quantity": 1.0,
+          "unit_price": 20.5,
+          "line_total": 20.5
+        },
+        {
+          "description": "Curtain sewing",
+          "quantity": 1.0,
+          "unit_price": 11.71,
+          "line_total": 11.71
+        }
+      ],
+      "total": 66.83
+    }
+  },
+  "receipt_035.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "TAFARA BUILDING SUPPLIES",
+      "date": "2026-10-04",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Wire (10m)",
+          "quantity": 1.0,
+          "unit_price": 3.0,
+          "line_total": 3.0
+        },
+        {
+          "description": "Pad lock",
+          "quantity": 3.0,
+          "unit_price": 4.82,
+          "line_total": 14.46
+        }
+      ],
+      "total": 17.46
+    }
+  },
+  "receipt_036.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "ACE STATIONERS",
+      "date": "2026-09-06",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Pens (box)",
+          "quantity": 1.0,
+          "unit_price": 2.48,
+          "line_total": 2.48
+        },
+        {
+          "description": "Scan",
+          "quantity": 2.0,
+          "unit_price": 0.5,
+          "line_total": 1.0
+        },
+        {
+          "description": "Typing CV",
+          "quantity": 2.0,
+          "unit_price": 3.13,
+          "line_total": 6.26
+        }
+      ],
+      "total": 10.74
+    }
+  },
+  "receipt_037.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Bindura cyber cafe",
+      "date": "2026-09-04",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "CV typing",
+          "quantity": 2.0,
+          "unit_price": 3.0,
+          "line_total": 6.0
+        },
+        {
+          "description": "Ex book",
+          "quantity": 2.0,
+          "unit_price": 0.6,
+          "line_total": 1.2
+        },
+        {
+          "description": "Scanning",
+          "quantity": 1.0,
+          "unit_price": 0.5,
+          "line_total": 0.5
+        },
+        {
+          "description": "Pens box",
+          "quantity": 1.0,
+          "unit_price": 2.51,
+          "line_total": 2.51
+        },
+        {
+          "description": "Printing A4",
+          "quantity": 10.0,
+          "unit_price": 0.2,
+          "line_total": 2.0
+        },
+        {
+          "description": "copies",
+          "quantity": 50.0,
+          "unit_price": 0.1,
+          "line_total": 2.0
+        },
+        {
+          "description": "Laminate",
+          "quantity": 4.0,
+          "unit_price": 1.0,
+          "line_total": 4.0
+        }
+      ],
+      "total": 19.21
+    }
+  },
+  "receipt_038.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "MBARE BUTCHERY",
+      "date": "2026-09-06",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Goat meat kg",
+          "quantity": 2.0,
+          "unit_price": 7.5,
+          "line_total": 15.0
+        },
+        {
+          "description": "Tripe kg",
+          "quantity": 4.0,
+          "unit_price": 3.5,
+          "line_total": 14.0
+        },
+        {
+          "description": "Beef (kg)",
+          "quantity": 2.0,
+          "unit_price": 7.0,
+          "line_total": 14.0
+        },
+        {
+          "description": "Pork chops",
+          "quantity": 2.0,
+          "unit_price": 7.31,
+          "line_total": 14.62
+        },
+        {
+          "description": "Bones kg",
+          "quantity": 4.0,
+          "unit_price": 2.18,
+          "line_total": 8.72
+        },
+        {
+          "description": "Whole chicken",
+          "quantity": 1.0,
+          "unit_price": 6.75,
+          "line_total": 6.75
+        }
+      ],
+      "total": 73.09
+    }
+  },
+  "receipt_039.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Ace Stationers",
+      "date": "2026-10-03",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Scanning",
+          "quantity": 4.0,
+          "unit_price": 0.5,
+          "line_total": 2.0
+        },
+        {
+          "description": "Laminate",
+          "quantity": 2.0,
+          "unit_price": 1.06,
+          "line_total": 2.12
+        },
+        {
+          "description": "CV typing",
+          "quantity": 1.0,
+          "unit_price": 3.0,
+          "line_total": 3.0
+        }
+      ],
+      "total": 7.12
+    }
+  },
+  "receipt_040.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Tafadzwa Print & Copy",
+      "date": "2026-01-26",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Copies",
+          "quantity": 50.0,
+          "unit_price": 0.05,
+          "line_total": 2.5
+        },
+        {
+          "description": "Ex. book",
+          "quantity": 1.0,
+          "unit_price": 0.6,
+          "line_total": 0.6
+        },
+        {
+          "description": "CV typing",
+          "quantity": 1.0,
+          "unit_price": 3.0,
+          "line_total": 3.0
+        },
+        {
+          "description": "Scanning",
+          "quantity": 1.0,
+          "unit_price": 0.5,
+          "line_total": 0.5
+        }
+      ],
+      "total": 6.6
+    }
+  },
+  "receipt_041.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "STITCH PERFECT",
+      "date": "2026-09-22",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Uniform sewn",
+          "quantity": 1.0,
+          "unit_price": 15.11,
+          "line_total": 15.11
+        },
+        {
+          "description": "Dress (sewn)",
+          "quantity": 1.0,
+          "unit_price": 21.47,
+          "line_total": 21.47
+        },
+        {
+          "description": "Hem trousers",
+          "quantity": 1.0,
+          "unit_price": 1.99,
+          "line_total": 1.99
+        },
+        {
+          "description": "Zip replace",
+          "quantity": 1.0,
+          "unit_price": 1.48,
+          "line_total": 1.48
+        }
+      ],
+      "total": 40.05
+    }
+  },
+  "receipt_042.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "MRS MOYO TAILORING",
+      "date": "2026-09-02",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Zip replace",
+          "quantity": 2.0,
+          "unit_price": 1.49,
+          "line_total": 2.98
+        },
+        {
+          "description": "Dress sewn",
+          "quantity": 1.0,
+          "unit_price": 20.0,
+          "line_total": 20.0
+        },
+        {
+          "description": "Curtain sewing",
+          "quantity": 1.0,
+          "unit_price": 11.52,
+          "line_total": 12.52
+        }
+      ],
+      "total": 35.5
+    }
+  },
+  "receipt_043.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Chipo's Tuckshop",
+      "date": "2026-09-21",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "candles",
+          "quantity": 3.0,
+          "unit_price": 1.54,
+          "line_total": 4.62
+        },
+        {
+          "description": "Rice 2kg",
+          "quantity": 2.0,
+          "unit_price": 3.5,
+          "line_total": 7.0
+        },
+        {
+          "description": "Fresh milk 1L",
+          "quantity": 2.0,
+          "unit_price": 1.96,
+          "line_total": 3.92
+        },
+        {
+          "description": "Soft drink 2L",
+          "quantity": 2.0,
+          "unit_price": 3.5,
+          "line_total": 7.0
+        },
+        {
+          "description": "Bread",
+          "quantity": 2.0,
+          "unit_price": 1.01,
+          "line_total": 2.02
+        }
+      ],
+      "total": 24.56
+    }
+  },
+  "receipt_044.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Bindura Cyber Cafe",
+      "date": "2026-09-23",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Pens (box)",
+          "quantity": 2.0,
+          "unit_price": 2.42,
+          "line_total": 4.84
+        },
+        {
+          "description": "Copies",
+          "quantity": 10.0,
+          "unit_price": 0.1,
+          "line_total": 1.0
+        },
+        {
+          "description": "Scan",
+          "quantity": 1.0,
+          "unit_price": 0.5,
+          "line_total": 0.5
+        },
+        {
+          "description": "CV typing",
+          "quantity": 2.0,
+          "unit_price": 3.0,
+          "line_total": 6.0
+        }
+      ],
+      "total": 12.34
+    }
+  },
+  "receipt_045.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Mai Tenda Vegetables",
+      "date": "2026-09-20",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Carrots",
+          "quantity": 15.0,
+          "unit_price": 1.4,
+          "line_total": 14.4
+        },
+        {
+          "description": "Covo",
+          "quantity": 2.0,
+          "unit_price": 0.5,
+          "line_total": 1.0
+        },
+        {
+          "description": "Cabbage head",
+          "quantity": 1.0,
+          "unit_price": 1.3,
+          "line_total": 1.3
+        }
+      ],
+      "total": 6.48
+    }
+  },
+  "receipt_046.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Mhofu Dressmakers",
+      "date": "2026-10-09",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Dress (selun)",
+          "quantity": 2.0,
+          "unit_price": 20.37,
+          "line_total": 40.74
+        },
+        {
+          "description": "Curtain sewing",
+          "quantity": 1.0,
+          "unit_price": 12.0,
+          "line_total": 12.0
+        },
+        {
+          "description": "School uniform",
+          "quantity": 1.0,
+          "unit_price": 13.5,
+          "line_total": 13.5
+        }
+      ],
+      "total": 66.24
+    }
+  },
+  "receipt_047.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Mhofu Dressmakers",
+      "date": "2026-01-01",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Pin service",
+          "quantity": 2.0,
+          "unit_price": 1.5,
+          "line_total": 3.0
+        },
+        {
+          "description": "Dress (Sash)",
+          "quantity": 1.0,
+          "unit_price": 7.0,
+          "line_total": 7.0
+        },
+        {
+          "description": "School uniform",
+          "quantity": 2.0,
+          "unit_price": 15.0,
+          "line_total": 30.0
+        },
+        {
+          "description": "Hem trousers",
+          "quantity": 1.0,
+          "unit_price": 4.0,
+          "line_total": 4.0
+        },
+        {
+          "description": "Curtain sewing",
+          "quantity": 1.0,
+          "unit_price": 15.0,
+          "line_total": 15.0
+        },
+        {
+          "description": "Alterations",
+          "quantity": 1.0,
+          "unit_price": 2.0,
+          "line_total": 2.0
+        }
+      ],
+      "total": 61.0
+    }
+  },
+  "receipt_048.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "Mai Tendai Vegetables",
+      "date": "2026-10-07",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Carrots",
+          "quantity": 4.0,
+          "unit_price": 1.05,
+          "line_total": 4.2
+        },
+        {
+          "description": "Rape bundle",
+          "quantity": 1.0,
+          "unit_price": 0.5,
+          "line_total": 0.5
+        },
+        {
+          "description": "Cabbage head",
+          "quantity": 3.0,
+          "unit_price": 1.01,
+          "line_total": 3.03
+        },
+        {
+          "description": "Potatoes 2 kg",
+          "quantity": 2.0,
+          "unit_price": 2.43,
+          "line_total": 4.86
+        },
+        {
+          "description": "Onions 1kg",
+          "quantity": 1.0,
+          "unit_price": 1.52,
+          "line_total": 1.52
+        },
+        {
+          "description": "Bananas",
+          "quantity": 3.0,
+          "unit_price": 1.45,
+          "line_total": 4.35
+        }
+      ],
+      "total": 18.46
+    }
+  },
+  "receipt_049.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "MUPEDZANHAMO VEG STALL",
+      "date": "2026-04-11",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Pepo bundle",
+          "quantity": 1.0,
+          "unit_price": 0.5,
+          "line_total": 0.5
+        },
+        {
+          "description": "Cane bundle",
+          "quantity": 1.0,
+          "unit_price": 0.5,
+          "line_total": 0.5
+        },
+        {
+          "description": "Tomatoes",
+          "quantity": 1.0,
+          "unit_price": 1.45,
+          "line_total": 1.45
+        },
+        {
+          "description": "Potatoes 2 Kg",
+          "quantity": 2.0,
+          "unit_price": 2.55,
+          "line_total": 5.1
+        }
+      ],
+      "total": 7.55
+    }
+  },
+  "receipt_050.jpg": {
+    "ok": true,
+    "tries": 1,
+    "receipt": {
+      "vendor": "MAI TENDAI VEGETABLES",
+      "date": "2026-09-29",
+      "currency": "USD",
+      "items": [
+        {
+          "description": "Rape",
+          "quantity": 2.0,
+          "unit_price": 0.5,
+          "line_total": 1.0
+        },
+        {
+          "description": "Covo bundle",
+          "quantity": 3.0,
+          "unit_price": 0.5,
+          "line_total": 1.5
+        },
+        {
+          "description": "Bananas",
+          "quantity": 4.0,
+          "unit_price": 1.57,
+          "line_total": 6.28
+        },
+        {
+          "description": "Onions 1kg",
+          "quantity": 4.0,
+          "unit_price": 1.41,
+          "line_total": 5.64
+        }
+      ],
+      "total": 14.42
+    }
+  }
+}
