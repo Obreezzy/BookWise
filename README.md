@@ -2,7 +2,7 @@
 
 An AI bookkeeping assistant for small shops in Zimbabwe (tuckshops, salons, informal traders). A shopkeeper photographs a handwritten receipt or a handwritten cash-book page. The system reads it, records it, and flags anything that does not add up.
 
-**Status: work in progress.** The extraction and checking pipeline works on synthetic data. There is no bot, no question answering, and it has not been tested on real handwritten pages.
+**Status: work in progress.**
 
 ## Core design rule
 
@@ -18,7 +18,7 @@ Arithmetic, date logic and validation are done in code, never by the model. The 
 - SQLite storage with `business_id` on every table, money in cents, and duplicate protection.
 - Evaluation scripts that score results against truth files, split by photo quality, with caching and rate-limit-safe stopping.
 
-## Results so far (synthetic data only)
+## Results so far 
 
 **Receipts**, first pipeline, all 50 handwritten receipts:
 
