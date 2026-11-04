@@ -1,4 +1,4 @@
-import json, os, sys, time
+import json, os, re, sys, time
 from collections import defaultdict
 from extract_ledger import extract_ledger
 from ledger_checks import check_ledger
@@ -10,13 +10,32 @@ AMOUNTS = ["money_in", "money_out", "amount", "qty", "owed", "paid"]
 TYPE_NAMES = {"credit_customer_ledger": "credit_ledger"}   # truth files use the long name
 
 
+def call_with_retry(name):
+    """Waits and retries when Groq's per-minute output limit is hit."""
+    for attempt in range(4):
+        try:
+            return extract_ledger(f"{DATA}/images/{name}.jpg")
+        except RuntimeError:
+            raise
+        except Exception as e:
+            msg = str(e)
+            per_minute = "429" in msg and "per day" not in msg and "TPD" not in msg
+            if per_minute and attempt < 3:
+                m = re.search(r"try again in ([\d.]+)s", msg)
+                wait = float(m.group(1)) + 3 if m else 20
+                print(f"  rate limit on {name}, waiting {wait:.0f}s then retrying...")
+                time.sleep(wait)
+                continue
+            raise
+
+
 def run(names):
     results = json.load(open(CACHE)) if os.path.exists(CACHE) else {}
     for name in names:
         if name in results:
             continue
         try:
-            page, tries = extract_ledger(f"{DATA}/images/{name}.jpg")
+            page, tries = call_with_retry(name)
             results[name] = {"ok": True, "tries": tries, "page": json.loads(page.model_dump_json())}
         except RuntimeError as e:
             results[name] = {"ok": False, "error": str(e)[:200]}
@@ -25,7 +44,7 @@ def run(names):
             break
         json.dump(results, open(CACHE, "w"), indent=2)
         print(name, "ok" if results[name]["ok"] else "FAILED")
-        time.sleep(2)
+        time.sleep(8)
     return results
 
 
